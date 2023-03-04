@@ -1,4 +1,4 @@
-baseurl = "https://bweew.github.io/notes"
+baseurl = "https://bweew.github.io/notes/"
 title = "Notes"
 languageCode = "en-us"
 paginate = "10" # Number of elements per page in pagination
@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author] # Used in authorbox
   name = "Bweew"
   bio = "Bweew's true identity is unknown. Maybe he is a successful blogger or writer."
-  avatar = "img/avatar.png"
+  avatar = "/themes/binario/static/img/avatar.png"
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description

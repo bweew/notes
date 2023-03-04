@@ -1,5 +1,6 @@
 ---
 title: Vim
+Date: 
 ---
 - control d control u = pg up down
 - shift ZQ quit

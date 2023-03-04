@@ -8,7 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Bweew"
-  bio = "Bweew's true identity is unknown. Maybe he is a successful blogger or writer."
+  bio = "Bweew's true identity is unknown."
   avatar = "img/avatar.png"
 
 [Params]

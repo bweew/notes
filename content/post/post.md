@@ -1,7 +1,12 @@
----
+   
 Title: "First content"
-
 ---
-# this is the first post
-[text](https://www.google.ca
++++
+// Frontmatter
+title = "This-is-the-title"
+slug = "this-is-the-title"
+// frontmatter
+
+# title to slug test 
+
 

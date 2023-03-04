@@ -1,4 +1,4 @@
-baseurl = "/notes"
+baseurl = "https://bweew.github.io/notes"
 title = "Notes"
 languageCode = "en-us"
 paginate = "10" # Number of elements per page in pagination
@@ -13,7 +13,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
-  copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
+  copyright = "Bweew" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -28,7 +28,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   comments = true # Enable comments for all site pages
   related = true # Enable Related content for single pages
   relatedMax = 5 # Set the maximum number of elements that can be displayed in related block. Optional
-  mathjax = true # Enable MathJax for all site pages
+  mathjax = false # Enable MathJax for all site pages
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
   hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
@@ -43,7 +43,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.Breadcrumb]
   enable = true # Enable breadcrumb block globally
-  homeText = "Binario" # Home node text
+  homeText = "notes" # Home node text
 
 [Params.Social]
   email = "example@example.com"
@@ -65,19 +65,19 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   twitter = true
   reddit = true
   telegram = true
-  linkedin = true
-  vk = true
-  pocket = true
-  pinterest = true
+  linkedin = false
+  vk = false
+  pocket = false
+  pinterest = false
 
 # Web App Manifest settings
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name = "Binario"
-  shortName = "Binario"
+  name = "Bweew"
+  shortName = "Bweew"
   display = "browser"
-  startUrl = "/"
+  startUrl = "/notes"
   backgroundColor = "#2a2a2a"
   themeColor = "#1b1b1b"
   description = "Responsive card-based & code-light Hugo theme"

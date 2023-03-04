@@ -48,17 +48,17 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.Social]
   email = "example@example.com"
   facebook = "username"
-  twitter = "username"
+  # twitter = "username"
   telegram = "username"
   instagram = "username"
-  pinterest = "username"
-  vk = "username"
-  linkedin = "username"
-  github = "username"
-  gitlab = "username"
-  stackoverflow = "numberid"
-  mastodon = "https://some.instance/@username"
-  medium = "username"
+  # pinterest = "username"
+  # vk = "username"
+  # linkedin = "username"
+  # github = "username"
+  # gitlab = "username"
+  # stackoverflow = "numberid"
+  # mastodon = "https://some.instance/@username"
+  # medium = "username"
 
 [Params.Share] # Entry Share block
   facebook = true
@@ -82,7 +82,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   themeColor = "#1b1b1b"
   description = "Responsive card-based & code-light Hugo theme"
   orientation = "portrait"
-  scope = "/"
+  scope = "/notes"
 
 [outputFormats]
   [outputFormats.MANIFEST]

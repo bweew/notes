@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author] # Used in authorbox
   name = "Bweew"
   bio = "Bweew's true identity is unknown."
-  avatar = "img/avatar.png"
+  avatar = "img/avatar2.png"
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description

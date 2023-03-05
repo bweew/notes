@@ -13,5 +13,7 @@ tags:
 > - git checkout to resolve conflict when you pull and its behind
 - learn emmet
 - change my site
-![potate](https://imgur.com/lqYH8Ri)
 
+![potate](https://i.imgur.com/lqYH8Ri.jpeg)
+
+![https://i.imgur.com/15ywSky.jpg](https://i.imgur.com/15ywSky.jpg)

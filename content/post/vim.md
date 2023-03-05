@@ -1,7 +1,8 @@
 ---
 title: Vim
-Date: 
+Date: “2023-03-01
 ---
+# vim
 
 - control d control u = pg up down
 - shift ZQ quit

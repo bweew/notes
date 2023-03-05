@@ -1,6 +1,6 @@
 ---
 Title: note 2
-Date: “2023-03-03”
+date: “2023-03-03”
 Tags: 
 - “notation”
 - “snippets”

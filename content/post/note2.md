@@ -1,6 +1,6 @@
 ---
 Title: note2
-Date: “2022-02-07”
+Date: “2023-03-04
 ---
 ## Formatting date is giving me a hard time
 

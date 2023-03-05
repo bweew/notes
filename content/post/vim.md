@@ -1,8 +1,8 @@
 ---
 title: Vim
-Date: “2023-03-01
+Date: “2023-03-01”
 ---
-# vim
+## vim
 
 - control d control u = pg up down
 - shift ZQ quit
@@ -41,7 +41,7 @@ Date: “2023-03-01
 - O does above
 - matching parenthesis jump %
 
-# sed like substitution
+## sed like substitution
 - :s/thee/the/g replace all in line no go only does one
 - :%s/thee/the/gc gc gives a prompt
 - :#,#s/old/new/g within a range substitute
@@ -61,13 +61,13 @@ Date: “2023-03-01
 - theres settings for spellcheck and jump to mispelled word
 - :set_ic turns search to case insensitive
 
-# Grep
+## Grep
 
-# sed
+## sed
 
-# Awk
+## Awk
 
-# regular expressions
+## regular expressions
 
 ## regex yt script
 

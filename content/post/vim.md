@@ -2,6 +2,7 @@
 title: Vim
 Date: 
 ---
+
 - control d control u = pg up down
 - shift ZQ quit
 - change xrate to move faster on keys 350 is a good setting

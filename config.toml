@@ -46,11 +46,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   homeText = "notes" # Home node text
 
 [Params.Social]
-  email = "example@example.com"
-  facebook = "username"
+  # email = "example@example.com"
+ # facebook = "username"
   # twitter = "username"
   telegram = "username"
-  instagram = "username"
+  # instagram = "username"
   # pinterest = "username"
   # vk = "username"
   # linkedin = "username"
@@ -61,9 +61,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # medium = "username"
 
 [Params.Share] # Entry Share block
-  facebook = true
-  twitter = true
-  reddit = true
+  facebook = false
+  twitter = false
+  reddit = false
   telegram = true
   linkedin = false
   vk = false

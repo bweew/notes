@@ -1,6 +1,9 @@
 ---
 Title: note2
-Date: “2023-03-04
+Date: “2023-03-04”
+Tags: 
+- “notation”
+- “snippets”
 ---
 ## Formatting date is giving me a hard time
 

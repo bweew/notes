@@ -112,6 +112,9 @@ Narrator: "So, those are just a couple of examples of how regex can be more usef
 
 ## regex sonnet
 
+[![regex sonnet](https://i.imgur.com/kLdEwoy.jpg)
+](https://youtu.be/hb2qw-HeFpM)
+
 Oh, Regex! Your power doth surpass compare,
 A tool for seeking patterns in the text,
 With symbols, metacharacters all so rare,

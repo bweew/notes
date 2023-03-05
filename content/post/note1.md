@@ -8,14 +8,10 @@ categories:
 tags:
 - "notation"
 - "snippets"
-featured:
-url: img/avatar.png
-alt: a bird
-caption: Pidgeon bweew
-credit: unknown author
-previewOnly: false
 ---
 
 > - git checkout to resolve conflict when you pull and its behind
 - learn emmet
 - change my site
+![potate](https://imgur.com/lqYH8Ri)
+

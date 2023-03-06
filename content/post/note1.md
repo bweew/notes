@@ -1,6 +1,6 @@
 ---
 title: note 1
-date: “2023-03-04”
+date: “March 03, 2023”
 description: "where i put my stuff"
 categories: 
 - "words of wisdom"

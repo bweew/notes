@@ -10,6 +10,13 @@ tags:
 - "snippets"
 ---
 
+- [ ] CSS 
+- [ ]  grep
+- [ ] awk
+- [ ] sed
+- [x] vim
+
+
 > - git checkout to resolve conflict when you pull and its behind
 - learn emmet
 - change my site

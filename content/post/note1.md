@@ -23,3 +23,5 @@ argg i hate rebabasing and fast forwarding
 git merge conflicts are such a headache
 it sucks so much
 when you accidentally push before pulling
+
+- okay this time il try magit again

@@ -30,3 +30,6 @@ when you accidentally push before pulling
 trying to push again from here *******
 
 - now once again changing it so i can hit it with fugitive
+
+and finally again,
+were in vim using git commands in the terminal to stage changes and push them back up to github.

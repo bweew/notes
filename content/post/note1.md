@@ -28,3 +28,5 @@ when you accidentally push before pulling
 
 - editing it on github to test pulling from magit
 trying to push again from here *******
+
+- now once again changing it so i can hit it with fugitive

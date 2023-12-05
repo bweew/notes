@@ -25,3 +25,5 @@ it sucks so much
 when you accidentally push before pulling
 
 - okay this time il try magit again
+
+- editing it on github to test pulling from magit

@@ -18,3 +18,8 @@ tags:
 
 using magit to manage the git on this
 testing it out. trying to get used to emacs
+
+argg i hate rebabasing and fast forwarding
+git merge conflicts are such a headache
+it sucks so much
+when you accidentally push before pulling
